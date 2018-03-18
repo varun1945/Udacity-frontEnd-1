@@ -1,0 +1,461 @@
+* {
+	font-family: "Bubbler One", sans-serif;
+}
+
+@media screen and (min-width: 230px) and (max-width: 394px) {
+		
+	.header {
+		display: flex;
+		flex-direction: row;
+		width: 100%;
+		margin-left: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+	.logoImage {
+		width: 33.33%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	
+	.logo {
+		margin-top: 10px;
+		max-height: 100px;
+		max-width: 100px;
+		margin-bottom: 10px;
+	}
+
+	.profile {
+		align-content: flex-end;
+		align-items: flex-end;
+		width: 66.60%;
+		margin-top: 10px;
+		font-weight: 100;
+		text-align: right;
+		color: #2d3c49;
+		padding-right: 0px;
+	}
+
+	.userName {
+		font-weight: 100;
+		margin-top: 10px;
+		font-size: 2em;
+	}
+
+	.profession {
+		font-weight: 100;
+		font-weight: bold;
+		margin: 0px;
+		font-size: 1.1em;
+	}
+
+	hr { 
+		display: block;
+		margin: 0.5em auto;
+		border-style: solid;
+		border-width: 2px;
+		color: #2d3c49;
+	}
+
+	.mainImage {
+		max-width: 100%;
+		height: auto;
+		display: block;
+	}
+
+	.feature {
+		color: #7d97ad;
+		font-weight: bold;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.featuredWork {
+		align-content: center;
+		margin-top: 25px;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.cards {
+		align-content: center;
+		text-align: center;
+	}
+	
+	.cardImage {
+		max-width: 200px;
+		max-height: 200px;
+	}
+
+	.cardHeading {
+		font-size: 1.5em;
+		font-weight: 500;
+	}
+
+	.cardUrl {
+		font-size: 1em;
+		font-weight: 200;
+	}
+	
+
+	
+}
+
+@media screen and (min-width:394px) and (max-width: 600px) {
+	
+	.header {
+		display: flex;
+		flex-direction: row;
+		width: 100%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logoImage {
+		width: 33.33%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logo {
+		margin-top: 10px;
+		max-height: 100px;
+		max-width: 100px;
+		margin-bottom: 10px;
+	}
+
+	.profile {
+		width: 66.60%;
+		margin-top: 10px;
+		font-weight: 100;
+		text-align: right;
+		color: #2d3c49;
+	}
+
+	.userName {
+		font-weight: 100;
+		margin-top: 10px;
+	}
+
+	.profession {
+		font-weight: 100;
+		font-weight: bold;
+		margin: 0px;
+	}
+
+	hr { 
+		display: block;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		margin-left: auto;
+		margin-right: auto;
+		border-style: inset;
+		border-width: 2px;
+		color: #2d3c49;
+	}
+
+	.mainImage {
+		max-width: 100%;
+		max-height: 500px;;
+	}
+
+	.feature {
+		color: #7d97ad;
+		font-weight: bold;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.featuredWork {
+		align-content: center;
+		margin-top: 25px;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.cards {
+		align-content: center;
+		text-align: center;
+	}
+
+	.cardHeading {
+		font-size: 1.5em;
+		font-weight: 500;
+	}
+
+	.cardUrl {
+		font-size: 1em;
+		font-weight: 200;
+	}
+	
+}
+
+@media screen and (min-width:601px) and (max-width: 826px) {
+	
+	.header {
+		display: flex;
+		flex-direction: row;
+		width: 100%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logoImage {
+		width: 33.33%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logo {
+		margin-top: 10px;
+		max-height: 100px;
+		max-width: 100px;
+		margin-bottom: 10px;
+	}
+
+	.profile {
+		width: 66.60%;
+		margin-top: 10px;
+		font-weight: 100;
+		text-align: right;
+		color: #2d3c49;
+	}
+
+	.userName {
+		font-weight: 100;
+		margin-top: 10px;
+	}
+
+	.profession {
+		font-weight: 100;
+		font-weight: bold;
+		margin: 0px;
+	}
+
+	hr { 
+		display: block;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		margin-left: auto;
+		margin-right: auto;
+		border-style: inset;
+		border-width: 2px;
+		color: #2d3c49;
+	}
+
+	.mainImage {
+		max-width: 100%;
+		max-height: 500px;;
+	}
+
+	.feature {
+		color: #7d97ad;
+		font-weight: bold;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.featuredWork {
+		width: 100%;
+		padding: 0px;
+		align-content: center;
+		margin-top: 25px;
+		display: flex;
+		flex-flow: wrap
+	}
+
+	.cards {
+		width: 50%;
+		align-content: center;
+		text-align: center;
+	}
+
+	.cardHeading {
+		font-size: 1.5em;
+		font-weight: 500;
+	}
+
+	.cardUrl {
+		font-size: 1em;
+		font-weight: 200;
+	}
+	
+}
+
+@media screen and (min-width:827px) and (max-width: 1016px) {
+	
+	.header {
+		display: flex;
+		flex-direction: row;
+		width: 100%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logoImage {
+		width: 33.33%;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logo {
+		margin-top: 10px;
+		max-height: 100px;
+		max-width: 100px;
+		margin-bottom: 10px;
+	}
+
+	.profile {
+		width: 66.60%;
+		margin-top: 10px;
+		font-weight: 100;
+		text-align: right;
+		color: #2d3c49;
+	}
+
+	.userName {
+		font-weight: 100;
+		margin-top: 10px;
+	}
+
+	.profession {
+		font-weight: 100;
+		font-weight: bold;
+		margin: 0px;
+	}
+
+	hr { 
+		display: block;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		margin-left: auto;
+		margin-right: auto;
+		border-style: inset;
+		border-width: 2px;
+		color: #2d3c49;
+	}
+
+	.mainImage {
+		max-width: 100%;
+		max-height: 500px;;
+	}
+
+	.feature {
+		color: #7d97ad;
+		font-weight: bold;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.featuredWork {
+		width: 100%;
+		padding: 0px;
+		align-content: center;
+		margin-top: 25px;
+		display: flex;
+		flex-flow: wrap
+	}
+
+	.cards {
+		width: 50%;
+		align-content: center;
+		text-align: center;
+	}
+
+	.cardHeading {
+		font-size: 1.5em;
+		font-weight: 500;
+	}
+
+	.cardImage {
+		max-height: 250px;
+		max-width: 250px;
+	}
+	
+	.cardUrl {
+		font-size: 1em;
+		font-weight: 200;
+	}
+	
+}
+
+@media screen and (min-width : 1017px ) {
+	
+	.header {
+		margin-left: 0px;
+		padding-left: 0px;
+		margin-right: 0px;
+		padding-right: 0px;
+	}
+	.logoImage {
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.logo {
+		margin-top: 10px;
+		max-height: 100px;
+		max-width: 100px;
+		margin-bottom: 10px;
+	}
+
+	.profile {
+		margin-right: 0px;
+		padding-right: 0px;
+		margin-top: 10px;
+		font-weight: 100;
+		text-align: right;
+		color: #2d3c49;
+	}
+
+	.userName {
+		font-weight: 100;
+		margin-top: 10px;
+	}
+
+	.profession {
+		font-weight: 100;
+		font-weight: bold;
+		margin: 0px;
+	}
+
+	hr { 
+		display: block;
+		margin-top: 0.5em;
+		margin-bottom: 0.5em;
+		margin-left: auto;
+		margin-right: auto;
+		border-style: inset;
+		border-width: 2px;
+		color: #2d3c49;
+	}
+
+	.mainImage {
+		max-width: 100%;
+		max-height: 500px;;
+	}
+
+	.feature {
+		color: #7d97ad;
+		font-weight: bold;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.featuredWork {
+		width: 100%;
+		margin-left: 0px;
+		padding-left: 0px;
+		margin-right: 0px;
+		padding-right: 0px;
+		align-content: center;
+		margin-top: 15px;
+		display: flex;
+		flex-direction: row;
+	}
+
+	.cards {
+		align-content: center;
+		text-align: center;
+	}
+
+	.cardHeading {
+		font-size: 1.5em;
+		font-weight: 500;
+	}
+
+	.cardUrl {
+		font-size: 1em;
+		font-weight: 200;
+	}
+	
+}
