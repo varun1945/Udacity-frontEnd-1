@@ -1,0 +1,41 @@
+.index{
+	width: 300px;
+	border: groove;
+	box-shadow:  5px 5px 5px #888888;
+	padding: 1% 1%;
+    background-color: lightblue;
+    border-style: inset;
+    
+}
+.Aname{
+	
+	border: none;
+    color:blue;
+/*    text-align: center;*/
+/*    font-family:sans-serif;*/
+}
+.pic{
+	border: none;
+	margin-bottom: 5px;
+}
+.details{
+	padding: 1% 1%;
+	border: groove;
+  background-color:lightcyan;
+}
+.dep{
+	margin: 5px;
+/*	text-align: justify;*/
+	font-style: italic;
+   background-color:lightcyan;
+}
+.list{
+	list-style: none;
+}
+.sn{
+	font-weight: bold;
+}
+.desc{
+	margin: 5px;
+/*	text-align: justify;*/
+}
