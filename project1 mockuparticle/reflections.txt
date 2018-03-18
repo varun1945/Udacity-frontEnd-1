@@ -1,0 +1,5 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here.Web Development is interesting and I'm exploring myself with every new lesson of it.  Answer the following questions:
+  * What new skills have you learned?
+ I learned HTML to make mockups * What has been easy?
+ It has been easy * What has been difficult?
+ The project was bit difficult, to overcome it I do research for it. * How have you used the problem solving strategies from the first project to overcome challenges so far? I looked over at stackoverflow for some codes.
