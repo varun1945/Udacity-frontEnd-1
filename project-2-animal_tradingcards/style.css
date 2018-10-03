@@ -1,6 +1,7 @@
 .index{
-	width: 300px;
+	width: 250px;
 	border: groove;
+	shadow: 20px;
 	box-shadow:  5px 5px 5px #888888;
 	padding: 1% 1%;
     background-color: lightblue;
@@ -21,6 +22,7 @@
 .details{
 	padding: 1% 1%;
 	border: groove;
+	shadow: 20px;
   background-color:lightcyan;
 }
 .dep{
